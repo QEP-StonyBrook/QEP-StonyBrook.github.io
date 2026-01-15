@@ -15,7 +15,7 @@ on:
         required: false
 
 env:
-  URL: ""
+  URL: "/"
 
 jobs:
   check:
@@ -64,9 +64,20 @@ jobs:
         run: |
           npm install -g chromedriver@$CHROMIUM_VERSION
       - name: Run axe 🪓
-        # https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli
         run: |
-          npm install -g @axe-core/cli
-          npm install -g http-server
-          http-server _site/ &
-          axe --chromedriver-path $(npm root -g)/chromedriver/bin/chromedriver http://localhost:8080/${{ github.event.inputs.url || env.URL }} --load-delay=1500 --exit
+          npm init -y
+          npm install --no-save @axe-core/cli http-server chromedriver wait-on
+
+          npx http-server _site/ -p 8080 -a 127.0.0.1 &
+          npx wait-on http://127.0.0.1:8080/
+
+          TARGET_PATH="${{ github.event.inputs.url || env.URL }}"
+          TARGET_PATH="${TARGET_PATH#/}"
+
+          CHROMEDRIVER_PATH="./node_modules/chromedriver/lib/chromedriver/chromedriver"
+          ls -l "$CHROMEDRIVER_PATH"
+
+          npx axe --chromedriver-path "$CHROMEDRIVER_PATH" \
+            "http://127.0.0.1:8080/$TARGET_PATH" \
+            --load-delay=1500 \
+            --exit
