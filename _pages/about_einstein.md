@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+HYEONGRAK "CHUCK" CHOI
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hyeongrak Choi received his PhD in Electrical Engineering and Computer Science in 2021 from the Massachusetts Institute of Technology (MIT) under Prof. Dirk Englund. He earned his M.S. in the same field in 2017 from MIT, after receiving his B.S. in Electrical and Computer Engineering from Seoul National University in 2014. During his graduate studies, he was a recipient of both the Samsung Scholarship and the Claude E. Shannon Fellowship. He continued as a postdoctoral associate at MIT until August 2024, when he started as an Assistant Professor in the Department of Electrical and Computer Engineering at Stony Brook University. His research focuses on quantum computing, networking, sensing, and photonics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+PhD (Electrical Engineering and Computer Science), MIT (2021)
+MS (Electrical Engineering and Computer Science), MIT (2017)
+BS (Electrical and Computer Engineering), Seoul National University (2014)
