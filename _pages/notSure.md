@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: notSure
+permalink: /notSure/
 nav: true
-nav_order: 1
+nav_order: 7
 display_categories: [work, fun]
 horizontal: false
 ---
