@@ -112,4 +112,13 @@ profiles:
   - role: UG
     align: left
     content: Jinhee Hong (2025-current)
+  - role: UG
+    align: left
+    content: Ben Weng (SOAR, 2024-2025)
+  - role: UG
+    align: left
+    content: Matthew Garzon (Exploration in STEM, 2025)
+  - role: UG
+    align: left
+    content: Lucas Rhode (Simons STEM Scholar, 2024-2025)
 ---
