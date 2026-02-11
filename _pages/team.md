@@ -90,19 +90,31 @@ profiles:
         Email: shaswatamahern.sarkar@stonybrook.edu<br>
         Phone: (934) 256-3787
       </div>
-      
+
+  - role: UG
+    align: left
+    content: Lucas Rhode (Simons STEM Scholar, 2024-2025)
   - role: MS
     align: left
-    content: Omonefe Itietie (2025-current)
+    content: Vishwas Chaudhary (2024-2025)    
   - role: UG
     align: left
     content: Ryan Tiev (2024-current)
   - role: UG
     align: left
-    content: Sean Lee (2025-current)
+    content: Ben Weng (SOAR, 2024-2025)
   - role: UG
     align: left
-    content: Jordan Trojan (2025-current)
+    content: Matthew Garzon (Exploration in STEM, 2025)
+  - role: UG
+    align: left
+    content: Jordan Trojan (2025)
+  - role: MS
+    align: left
+    content: Omonefe Itietie (2025-current)
+  - role: UG
+    align: left
+    content: Sean Lee (2025-current)
   - role: UG
     align: left
     content: Janice Huang (2025-current)
@@ -114,11 +126,5 @@ profiles:
     content: Jinhee Hong (2025-current)
   - role: UG
     align: left
-    content: Ben Weng (SOAR, 2024-2025)
-  - role: UG
-    align: left
-    content: Matthew Garzon (Exploration in STEM, 2025)
-  - role: UG
-    align: left
-    content: Lucas Rhode (Simons STEM Scholar, 2024-2025)
+    content: Alexander Weber (2025-current)
 ---
