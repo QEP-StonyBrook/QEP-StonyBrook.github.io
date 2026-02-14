@@ -114,7 +114,7 @@ profiles:
     content: Omonefe Itietie (2025-current)
   - role: UG
     align: left
-    content: Sean Lee (2025-current)
+    content: Sean Lee (2025)
   - role: UG
     align: left
     content: Janice Huang (2025-current)
