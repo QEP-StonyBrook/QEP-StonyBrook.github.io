@@ -123,7 +123,7 @@ profiles:
     content: Heng Lin (2025-current)
   - role: UG
     align: left
-    content: Jinhee Hong (2025-current)
+    content: Jinhee Hong (2025)
   - role: UG
     align: left
     content: Alexander Weber (2025-current)
