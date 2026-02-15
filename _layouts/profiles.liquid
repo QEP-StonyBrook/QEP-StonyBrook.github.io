@@ -21,14 +21,6 @@ layout: page
             {% for profile in group %}
 
               {%- comment -%}
-              Render <hr> between items, but not before the first item.
-              This avoids "double line spacing" and the extra whitespace you saw.
-              {%- endcomment -%}
-              {% unless forloop.first %}
-                <hr class="profile-divider">
-              {% endunless %}
-
-              {%- comment -%}
               Decide whether this is a "full card" (has name/bio/history/more_info/image)
               or a "compact line" (content-only, e.g., UG list).
               {%- endcomment -%}
@@ -107,7 +99,6 @@ layout: page
 
                   </div>
                 </div>
-
               {% else %}
 
                 {%- comment -%}
@@ -122,9 +113,14 @@ layout: page
                 </div>
 
               {% endif %}
-
+              <hr class="profile-divider">
             {% endfor %}
           {% endif %}
+          
+          {% if r > 3 %}
+            <hr class="profile-divider">
+          {% endif %}
+
         {% endfor %}
 
         {%- comment -%}
