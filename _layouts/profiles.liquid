@@ -113,67 +113,20 @@ layout: page
                 </div>
 
               {% endif %}
-              <hr class="profile-divider">
+              {% if forloop.index0 == 2 %}
+                <hr class="profile-divider">
+              {% endif %}
             {% endfor %}
           {% endif %}
           
-          {% if forloop.index0 > 3 %}
+          {% if forloop.index0 > 2 %}
+            <hr class="profile-divider">
+          {% endif %}
+          {% if forloop.index0 == 1 %}
             <hr class="profile-divider">
           {% endif %}
 
         {% endfor %}
-
-        {%- comment -%}
-        Optional: profiles missing role
-        {%- endcomment -%}
-        {% assign no_role = page.profiles | where_exp: "p", "p.role == nil or p.role == ''" %}
-        {% if no_role and no_role.size > 0 %}
-          <hr>
-          <h2 class="team-section">Team</h2>
-
-          {% for profile in no_role %}
-            {% unless forloop.first %}
-              <hr class="profile-divider">
-            {% endunless %}
-
-            <div class="profile-row">
-              {% if profile.image %}
-                <div class="profile-image">
-                  {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-                  {% if profile.image_circular %}
-                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-                  {% else %}
-                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-                  {% endif %}
-                  {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-                  {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-                </div>
-              {% endif %}
-
-              <div class="profile-content">
-                {% if profile.name %}
-                  <div class="profile-name">{{ profile.name }}</div>
-                {% endif %}
-
-                {% if profile.bio %}
-                  <div class="profile-text profile-bio">{{ profile.bio | markdownify }}</div>
-                {% endif %}
-
-                {% if profile.history %}
-                  <div class="profile-text profile-history">{{ profile.history | markdownify }}</div>
-                {% endif %}
-
-                {% if profile.more_info %}
-                  <div class="profile-contact">{{ profile.more_info | markdownify }}</div>
-                {% endif %}
-
-                {% if profile.content %}
-                  <div class="profile-text">{{ profile.content | markdownify }}</div>
-                {% endif %}
-              </div>
-            </div>
-          {% endfor %}
-        {% endif %}
 
       {% endif %}
     </article>
