@@ -73,6 +73,12 @@
   display: block;
 }
 
+.device-card img {
+  width: 70%;
+  max-width: 300px;
+  height: auto;
+}
+
 /* -------- Profiles page spacing + typography -------- */
 
 .profiles-page {
@@ -134,5 +140,17 @@
     width: 100px;
     max-height: 100px;
     height: auto;
+  }
+  .device-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(250px, 400px));
+  gap: 1.5rem;
+  justify-content: center;
+  }
+
+  .device-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: contain;
   }
 }
