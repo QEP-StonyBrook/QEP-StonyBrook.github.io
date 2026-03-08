@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot Microscope
+title: Quantum Robot Microscope
 description: Automatic Characterization of a Large Number of Solid-State Qubits
 img: assets/img/Device2_RoMi.jpg
 importance:
