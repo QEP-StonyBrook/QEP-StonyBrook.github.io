@@ -19,6 +19,7 @@ nav_order: 3
 _No QEP repositories configured in `_data/repositories.yml`._
 {% endif %}
 
+<br><br>
 ## Contributed Repositories
 
 {% if site.data.repositories.github_repos_contributed and site.data.repositories.github_repos_contributed.size > 0 %}
