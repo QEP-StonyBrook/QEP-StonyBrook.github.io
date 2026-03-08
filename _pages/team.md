@@ -111,7 +111,7 @@ profiles:
     content: Jordan Trojan (2025)
   - role: MS
     align: left
-    content: Omonefe Itietie (2025-current)
+    content: Omonefe Itietie (2025-2026)
   - role: UG
     align: left
     content: Sean Lee (2025)
