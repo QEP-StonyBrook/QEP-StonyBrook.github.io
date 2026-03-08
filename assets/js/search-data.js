@@ -84,8 +84,8 @@ ninja.data = [{
           description: "NV magnetometer for MagNav",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_device/";
-            },},{id: "projects-robot-microscope",
-          title: 'Robot Microscope',
+            },},{id: "projects-quantum-robot-microscope",
+          title: 'Quantum Robot Microscope',
           description: "Automatic Characterization of a Large Number of Solid-State Qubits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_device/";
