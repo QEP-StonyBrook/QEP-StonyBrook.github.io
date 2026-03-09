@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /contact/
-title: Contact
+permalink: /join_us/
+title: Join us
 description: 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <br>
