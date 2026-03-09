@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "nav-contact",
-          title: "Contact",
+        },{id: "nav-join-us",
+          title: "Join us",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/contact/";
+            window.location.href = "/join_us/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
