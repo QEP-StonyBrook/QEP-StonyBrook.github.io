@@ -39,7 +39,7 @@ Undergraduate projects focus on building strong foundations in experimental syst
 
 M.S. students are expected to engage in advanced research involving algorithm development, system modeling, and experimental or computational implementation. These projects may lead to thesis work and publications.
 
-- [Reinforcement Learning for Quantum Gate Control with Zero-Shot Generalization across Noisy Environments](LINK_TO_GOOGLE_DOC)  
+- [Reinforcement Learning for Quantum Gate Control with Zero-Shot Generalization across Noisy Environments](https://drive.google.com/file/d/1KIf9ih_5ijAkWiwXfBmscnla2DE8zslj/view?usp=sharing)  
 - [Resource-Efficient Quantum Simulation on Surface Code Architectures with In-Place Small-Angle Rotations](LINK_TO_GOOGLE_DOC)  
 
 <br>
@@ -50,9 +50,9 @@ M.S. students are expected to engage in advanced research involving algorithm de
 
 Ph.D. research focuses on developing new architectures and technologies for scalable quantum systems, combining theoretical innovation with hardware realization.
 
-- [Cavity-based Quantum Amplifier](LINK_TO_GOOGLE_DOC)  
-- [CMOS-integrated Nanophotonic Quantum Router](LINK_TO_GOOGLE_DOC)  
-- [Heterogeneous Architecture for Quantum Information Processing](LINK_TO_GOOGLE_DOC)  
+- [Cavity-based Quantum Amplifier](https://docs.google.com/document/d/1vccZQWRUUwjjaLRMqyp7Tf26qvyLecRruTI7G4SIi7I/edit?tab=t.0)  
+- [CMOS-integrated Nanophotonic Quantum Router](https://docs.google.com/document/d/1JSKt_hqWFYeEB0pFf8M9yvO_rIwOrX2FkoyxHnQGMvE/edit?usp=sharing)  
+- [Heterogeneous Architecture for Quantum Information Processing]()  
 
 <br>
 
