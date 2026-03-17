@@ -84,16 +84,3 @@ hyeongrak.choi@stonybrook.edu
 (617) 335-5420  
 
 <br>
-
----
-
-### Department Contact
-
-Electrical and Computer Engineering Department  
-
-Light Engineering 273  
-Stony Brook University, Stony Brook, NY 11794-2350  
-ecegradcoordinator@stonybrook.edu  
-ECEundergradCoordinator@stonybrook.edu  
-Phone: 631-632-8400  
-Fax: 631-632-8494  
