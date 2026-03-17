@@ -24,12 +24,12 @@ Prospective students are encouraged to review the available projects below and c
 Undergraduate projects focus on building strong foundations in experimental systems, simulation, and instrumentation. These projects are designed to be accessible while contributing to active research directions.
 
 - [Event-driven Simulators for Quantum Networks with GUI](https://docs.google.com/document/d/1Hh2IYVvz5-rnvoryCQTgqOOVEjSZUjUQNPJFBdDSFa8/edit?tab=t.0#heading=h.y3402rxbwhfr)  
-- [Quantum Error Correction and Code Optimization for Structured Noise](LINK_TO_GOOGLE_DOC)  
-- [Design of Electro- and Opto-Mechanical Resonators for Quantum Information Processing](LINK_TO_GOOGLE_DOC)  
-- [Cavity-Coupled Quantum Sensor Readout](LINK_TO_GOOGLE_DOC)  
-- [Quantum Robot Microscope: Automation and Control for High-Throughput Quantum Measurements](LINK_TO_GOOGLE_DOC)  
-- [Demonstration of a Room-Temperature Diamond Quantum Maser](LINK_TO_GOOGLE_DOC)  
-- [Miniaturizing Solid-State Quantum Sensor](LINK_TO_GOOGLE_DOC)  
+- [Quantum Error Correction and Code Optimization for Structured Noise](https://docs.google.com/document/d/1ucjf6IJAWXFJwI8nkiy4qgzdXGiFQozv9S4w1RT2g9E/edit?tab=t.0#heading=h.y3402rxbwhfr)  
+- [Design of Electro- and Opto-Mechanical Resonators for Quantum Information Processing](https://docs.google.com/document/d/1Z4ewMc-swpVkGxub6xuYbhz273_hO8uqj4NpUWTJLKo/edit?tab=t.0#heading=h.y3402rxbwhfr)  
+- [Cavity-Coupled Quantum Sensor Readout](https://docs.google.com/document/d/1MLK0b1rYTg2I2ciutEf10Prq0iXetIjcSjeD4iKT_s4/edit?tab=t.0#heading=h.y3402rxbwhfr)  
+- [Quantum Robot Microscope: Automation and Control for High-Throughput Quantum Measurements](https://docs.google.com/document/d/19GxLFexZ_Yhgy3JZqU4fpehMWf7CinzrjSOTpOnJDx8/edit?tab=t.0)  
+- [Demonstration of a Room-Temperature Diamond Quantum Maser](https://drive.google.com/drive/folders/1A4uOiET0je2NewpcOcEKYU6k2_0L8T7D)  
+- [Miniaturizing Solid-State Quantum Sensor](https://drive.google.com/drive/folders/1A4uOiET0je2NewpcOcEKYU6k2_0L8T7D)  
 
 <br>
 
