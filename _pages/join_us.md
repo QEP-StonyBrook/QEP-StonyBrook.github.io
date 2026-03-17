@@ -52,7 +52,7 @@ Ph.D. research focuses on developing new architectures and technologies for scal
 
 - [Cavity-based Quantum Amplifier](https://docs.google.com/document/d/1vccZQWRUUwjjaLRMqyp7Tf26qvyLecRruTI7G4SIi7I/edit?tab=t.0)  
 - [CMOS-integrated Nanophotonic Quantum Router](https://docs.google.com/document/d/1JSKt_hqWFYeEB0pFf8M9yvO_rIwOrX2FkoyxHnQGMvE/edit?usp=sharing)  
-- [Heterogeneous Architecture for Quantum Information Processing]()  
+- [Heterogeneous Architecture for Quantum Information Processing](https://docs.google.com/document/d/1TIE4-yyAF9wXPTzcCn0SD2C6oOvFGV4KEzV9r3gfRZs/edit?tab=t.0)  
 
 <br>
 
