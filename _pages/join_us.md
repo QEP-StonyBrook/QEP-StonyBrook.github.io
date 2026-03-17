@@ -23,7 +23,7 @@ Prospective students are encouraged to review the available projects below and c
 
 Undergraduate projects focus on building strong foundations in experimental systems, simulation, and instrumentation. These projects are designed to be accessible while contributing to active research directions.
 
-- [Event-driven Simulators for Quantum Networks with GUI]([Project Description]https://docs.google.com/document/d/1Hh2IYVvz5-rnvoryCQTgqOOVEjSZUjUQNPJFBdDSFa8/edit?tab=t.0#heading=h.y3402rxbwhfr)  
+- [Event-driven Simulators for Quantum Networks with GUI](https://docs.google.com/document/d/1Hh2IYVvz5-rnvoryCQTgqOOVEjSZUjUQNPJFBdDSFa8/edit?tab=t.0#heading=h.y3402rxbwhfr)  
 - [Quantum Error Correction and Code Optimization for Structured Noise](LINK_TO_GOOGLE_DOC)  
 - [Design of Electro- and Opto-Mechanical Resonators for Quantum Information Processing](LINK_TO_GOOGLE_DOC)  
 - [Cavity-Coupled Quantum Sensor Readout](LINK_TO_GOOGLE_DOC)  
