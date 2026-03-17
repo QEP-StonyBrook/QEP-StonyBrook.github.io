@@ -23,13 +23,13 @@ Prospective students are encouraged to review the available projects below and c
 
 Undergraduate projects focus on building strong foundations in experimental systems, simulation, and instrumentation. These projects are designed to be accessible while contributing to active research directions.
 
+- [Miniaturizing Solid-State Quantum Sensor](https://drive.google.com/file/d/1DP9onB2DTBZWbZAdOd-EtJAid6dy3oGK/view?usp=sharing)  
+- [Cavity-Coupled Quantum Sensor Readout](https://docs.google.com/document/d/1MLK0b1rYTg2I2ciutEf10Prq0iXetIjcSjeD4iKT_s4/edit?tab=t.0#heading=h.y3402rxbwhfr)  
+- [Quantum Robot Microscope: Automation and Control for High-Throughput Quantum Measurements](https://docs.google.com/document/d/19GxLFexZ_Yhgy3JZqU4fpehMWf7CinzrjSOTpOnJDx8/edit?tab=t.0)  
 - [Event-driven Simulators for Quantum Networks with GUI](https://docs.google.com/document/d/1Hh2IYVvz5-rnvoryCQTgqOOVEjSZUjUQNPJFBdDSFa8/edit?tab=t.0#heading=h.y3402rxbwhfr)  
 - [Quantum Error Correction and Code Optimization for Structured Noise](https://docs.google.com/document/d/1ucjf6IJAWXFJwI8nkiy4qgzdXGiFQozv9S4w1RT2g9E/edit?tab=t.0#heading=h.y3402rxbwhfr)  
 - [Design of Electro- and Opto-Mechanical Resonators for Quantum Information Processing](https://docs.google.com/document/d/1Z4ewMc-swpVkGxub6xuYbhz273_hO8uqj4NpUWTJLKo/edit?tab=t.0#heading=h.y3402rxbwhfr)  
-- [Cavity-Coupled Quantum Sensor Readout](https://docs.google.com/document/d/1MLK0b1rYTg2I2ciutEf10Prq0iXetIjcSjeD4iKT_s4/edit?tab=t.0#heading=h.y3402rxbwhfr)  
-- [Quantum Robot Microscope: Automation and Control for High-Throughput Quantum Measurements](https://docs.google.com/document/d/19GxLFexZ_Yhgy3JZqU4fpehMWf7CinzrjSOTpOnJDx8/edit?tab=t.0)  
 - [Demonstration of a Room-Temperature Diamond Quantum Maser](https://drive.google.com/file/d/1feFD2zACMq7jzA43iwPqHj9WR4h4Nqzj/view?usp=sharing)  
-- [Miniaturizing Solid-State Quantum Sensor](https://drive.google.com/file/d/1DP9onB2DTBZWbZAdOd-EtJAid6dy3oGK/view?usp=sharing)  
 
 <br>
 
@@ -40,7 +40,7 @@ Undergraduate projects focus on building strong foundations in experimental syst
 M.S. students are expected to engage in advanced research involving algorithm development, system modeling, and experimental or computational implementation. These projects may lead to thesis work and publications.
 
 - [Reinforcement Learning for Quantum Gate Control with Zero-Shot Generalization across Noisy Environments](https://drive.google.com/file/d/1KIf9ih_5ijAkWiwXfBmscnla2DE8zslj/view?usp=sharing)  
-- [Resource-Efficient Quantum Simulation on Surface Code Architectures with In-Place Small-Angle Rotations](LINK_TO_GOOGLE_DOC)  
+- [Resource-Efficient Quantum Simulation on Surface Code Architectures with In-Place Small-Angle Rotations](https://drive.google.com/file/d/102njwWHp65MLIkXL8AW6d1I-sX5K5hr6/view?usp=sharing)  
 
 <br>
 
