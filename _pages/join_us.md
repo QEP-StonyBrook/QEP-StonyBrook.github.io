@@ -40,7 +40,7 @@ Undergraduate projects focus on building strong foundations in experimental syst
 M.S. students are expected to engage in advanced research involving algorithm development, system modeling, and experimental or computational implementation. These projects may lead to thesis work and publications.
 
 - [Reinforcement Learning for Quantum Gate Control with Zero-Shot Generalization across Noisy Environments](https://drive.google.com/file/d/1KIf9ih_5ijAkWiwXfBmscnla2DE8zslj/view?usp=sharing)  
-- [Resource-Efficient Quantum Simulation on Surface Code Architectures with In-Place Small-Angle Rotations](https://drive.google.com/file/d/102njwWHp65MLIkXL8AW6d1I-sX5K5hr6/view?usp=sharing)  
+%%- [Resource-Efficient Quantum Simulation on Surface Code Architectures with In-Place Small-Angle Rotations](https://drive.google.com/file/d/102njwWHp65MLIkXL8AW6d1I-sX5K5hr6/view?usp=sharing)  %%
 
 <br>
 
