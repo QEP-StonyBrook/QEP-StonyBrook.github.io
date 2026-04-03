@@ -23,7 +23,7 @@ Prospective students are encouraged to review the available projects below and c
 
 Undergraduate projects focus on building strong foundations in experimental systems, simulation, and instrumentation. These projects are designed to be accessible while contributing to active research directions.
 
-- [Miniaturizing Solid-State Quantum Sensor](https://drive.google.com/file/d/1DP9onB2DTBZWbZAdOd-EtJAid6dy3oGK/view?usp=sharing)  
+- [Miniaturizing Solid-State Quantum Sensor]([https://drive.google.com/file/d/1DP9onB2DTBZWbZAdOd-EtJAid6dy3oGK/view?usp=sharing](https://docs.google.com/document/d/1d-nuRReZyPyg-yJkb1esRTHYmWTjZNxPzxmMqFSyrSE/edit?tab=t.0))  
 - [Cavity-Coupled Quantum Sensor Readout](https://docs.google.com/document/d/1MLK0b1rYTg2I2ciutEf10Prq0iXetIjcSjeD4iKT_s4/edit?tab=t.0#heading=h.y3402rxbwhfr)  
 - [Quantum Robot Microscope: Automation and Control for High-Throughput Quantum Measurements](https://docs.google.com/document/d/19GxLFexZ_Yhgy3JZqU4fpehMWf7CinzrjSOTpOnJDx8/edit?tab=t.0)  
 - [Event-driven Simulators for Quantum Networks with GUI](https://docs.google.com/document/d/1Hh2IYVvz5-rnvoryCQTgqOOVEjSZUjUQNPJFBdDSFa8/edit?tab=t.0#heading=h.y3402rxbwhfr)  
