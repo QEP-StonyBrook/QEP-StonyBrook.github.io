@@ -30,4 +30,4 @@ github_repos_contributed:
     description: "Python framework using reinforcement learning to optimize pulse-level quantum control for high-fidelity gate synthesis under noiseless and noisy conditions."
 
   - name: WolfLink/trbo
-    description: "T Reduction by Optimization"
+    description: "T Reduction by Optimization."
