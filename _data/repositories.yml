@@ -29,3 +29,5 @@ github_repos_contributed:
   - name: Farquhar13/relaqs
     description: "Python framework using reinforcement learning to optimize pulse-level quantum control for high-fidelity gate synthesis under noiseless and noisy conditions."
 
+  - name: WolfLink/trbo
+    description: "T Reduction by Optimization"
