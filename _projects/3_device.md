@@ -14,8 +14,10 @@ to be published.
 
 <div class="device-gallery">
   <div class="device-card">
-    <img src="{{ 'assets/img/Device3_Micromanipulator.png' | relative_url }}" alt="micromanipulator demo">
-    <p><strong>Version 1.</strong> Initial prototype.</p>
+    <video controls>
+      <source src="{{ 'assets/video/manipulator_demo_V1.mp4' | relative_url }}" type="video/mp4">
+    </video>
+    <p><strong>Demo.</strong> Microtransfer setup in operation.</p>
   </div>
   <div class="device-card">
     <img src="{{ 'assets/img/Device3_control_Console_V1.png' | relative_url }}" alt="Control console">
