@@ -22,6 +22,10 @@ to be published.
     <p><strong>Version 2.</strong> Improved automated platform.</p>
   </div>
   <div class="device-card">
+    <img src="{{ 'assets/img/RobotMicroscope.jpg' | relative_url }}" alt="Quantum Robot Microscope version 2">
+    <p><strong>Version 3.</strong> Path-length improved</p>
+  </div>
+  <div class="device-card">
     <img src="{{ 'assets/img/Confocal_Scanning.png' | relative_url }}" alt="Quantum Robot Microscope version 2">
     <p><strong>Confocal Scanning of Nanodiamonds.</strong> scanning image</p>
   </div>
