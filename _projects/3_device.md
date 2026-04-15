@@ -20,7 +20,7 @@ to be published.
     <p><strong>Demo.</strong> Microtransfer setup in operation.</p>
   </div>
   <div class="device-card">
-    <img src="{{ 'assets/img/Device3_control_Console_V1.png' | relative_url }}" alt="Control console">
+    <img src="{{ 'assets/img/Manipulator_gui.png' | relative_url }}" alt="Control console">
     <p><strong>Version 2.</strong> Improved automated platform.</p>
   </div>
 </div>
