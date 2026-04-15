@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Chuck gave a presentation in "Stony Brook's Quantum Frontiers"(https://www.stonybrook.edu/inauguration/quantum-frontiers.html) as a part of The Inauguration of Andrea Goldsmith.
+Chuck gave a presentation in [Stony Brook's Quantum Frontiers](https://www.stonybrook.edu/inauguration/quantum-frontiers.html) as a part of The Inauguration of Andrea Goldsmith.
