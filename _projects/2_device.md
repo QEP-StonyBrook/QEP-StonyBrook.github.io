@@ -21,4 +21,8 @@ to be published.
     <img src="{{ 'assets/img/Device2_RoMi_v2.png' | relative_url }}" alt="Quantum Robot Microscope version 2">
     <p><strong>Version 2.</strong> Improved automated platform.</p>
   </div>
+  <div class="device-card">
+    <img src="{{ 'assets/img/Confocal_Scanning.png' | relative_url }}" alt="Quantum Robot Microscope version 2">
+    <p><strong>Confocal Scanning of Nanodiamonds.</strong> scanning image</p>
+  </div>
 </div>
