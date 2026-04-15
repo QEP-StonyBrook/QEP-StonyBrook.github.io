@@ -96,4 +96,9 @@ ninja.data = [{
           description: "Automatic Characterization of a Large Number of Solid-State Qubits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_device/";
+            },},{id: "projects-microtransfer-setup",
+          title: 'Microtransfer Setup',
+          description: "Heterogeneous integration",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_device/";
             },},];
