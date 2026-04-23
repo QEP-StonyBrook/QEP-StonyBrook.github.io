@@ -25,4 +25,8 @@ to be published.
     <img src="{{ 'assets/img/Device2_Sensor_ODMR.jpg' | relative_url }}" alt="ODMR Hyperfine">
     <p><strong>ODMR Result from Device Ver. 2</strong> Hyperfine ODMR from NV Ensemble.</p>
   </div>
+  <div class="device-card">
+    <img src="{{ 'assets/img/LI_mag.jpg' | relative_url }}" alt="ODMR Hyperfine">
+    <p><strong>Lock-in ODMR Result</strong> Improved signal from Lock-in</p>
+  </div>  
 </div>
